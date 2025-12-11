@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "ドレス",
+  "base_artist": "RuLu",
+  "createdAt": "2025-12-11T06:44:27.581849Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ドレス",
+      "artist": "Buck-Tick",
+      "has_synced": true,
+      "path": "select/01_ドレス_Buck-Tick.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ドレス(bloody trinity mix)",
+      "artist": "Buck-Tick",
+      "has_synced": true,
+      "path": "select/02_ドレス(bloody_trinity_mix)_Buck-Tick.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ドレス",
+      "artist": "BUCK-TICK",
+      "has_synced": true,
+      "path": "select/03_ドレス_BUCK-TICK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ドレス",
+      "artist": "abingdon boys school",
+      "has_synced": true,
+      "path": "select/04_ドレス_abingdon_boys_school.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ドレス",
+      "artist": "BUCK‐TICK",
+      "has_synced": true,
+      "path": "select/05_ドレス_BUCK‐TICK.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ドレス",
+      "artist": "BUCK-TICK",
+      "has_synced": true,
+      "path": "select/06_ドレス_BUCK-TICK.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ドレス - Dress",
+      "artist": "BUCK-TICK",
+      "has_synced": true,
+      "path": "select/07_ドレス_-_Dress_BUCK-TICK.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ドレス（bloody trinity mix）",
+      "artist": "BUCK-TICK",
+      "has_synced": true,
+      "path": "select/08_ドレス(bloody_trinity_mix)_BUCK-TICK.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ドレス（bloody trinity mix） - Dress (bloody trinity mix)",
+      "artist": "BUCK-TICK",
+      "has_synced": true,
+      "path": "select/09_ドレス(bloody_trinity_mix)_-_Dress_(bloody_trinity_mix)_BUCK-TICK.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ドレス(bloody trinity mix)",
+      "artist": "buck‐tick",
+      "has_synced": false,
+      "path": "select/10_ドレス(bloody_trinity_mix)_buck‐tick.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ドレス（Live）",
+      "artist": "Buck-Tick",
+      "has_synced": true,
+      "path": "select/11_ドレス(Live)_Buck-Tick.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ドレス(bloody trinity mix)",
+      "artist": "BUCK‐TICK",
+      "has_synced": true,
+      "path": "select/12_ドレス(bloody_trinity_mix)_BUCK‐TICK.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ドレス",
+      "artist": "BUCK‐TICK",
+      "has_synced": true,
+      "path": "select/13_ドレス_BUCK‐TICK.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ドレス(Live)",
+      "artist": "BUCK‐TICK",
+      "has_synced": true,
+      "path": "select/14_ドレス(Live)_BUCK‐TICK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ドレス (feat. よーい)",
+      "artist": "RuLu",
+      "has_synced": false,
+      "path": "select/pl_01_ドレス_(feat._よーい)_RuLu.txt"
+    }
+  ]
+}
